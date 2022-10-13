@@ -1,6 +1,9 @@
-Esta es la historia de Johnny Rodriguez
+Esta es la historia de Johnny Rodriguez Romero.
 
 Tiene la edad de 23 años y vive en colombia.
 
 Vive mas especificamente en el departamento de Boyaca en el
 municipio de tenza en la verda de valle grande abajo.
+
+Ahora se dedica a estudiar lenguajes de progamacion y muchas cosas 
+relaionadas con proamacion.
