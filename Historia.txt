@@ -5,5 +5,7 @@ Tiene la edad de 23 años y vive en colombia.
 Vive mas especificamente en el departamento de Boyaca en el
 municipio de tenza en la verda de valle grande abajo.
 
+Master 1
+
 Ahora se dedica a estudiar lenguajes de progamacion y muchas cosas 
 relaionadas con proamacion.
